@@ -1,0 +1,182 @@
+[
+  {
+    "id": "viva-la-vida",
+    "videoId": "dvgZkm1xWPE",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "year": "2008",
+    "level": "중급",
+    "theme": "terracotta",
+    "genre": "Art pop · Orchestral pop",
+    "description": "찬란했던 시절을 돌아보는 한 편의 이야기. 웅장한 멜로디 속에서 과거를 말하는 영어를 만나보세요.",
+    "focus": [
+      "과거의 습관",
+      "과거 시제",
+      "비유적 표현"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "count-on-me",
+    "videoId": "6k8cpUkKK4c",
+    "title": "Count on Me",
+    "artist": "Bruno Mars",
+    "year": "2010",
+    "level": "초급",
+    "theme": "sage",
+    "genre": "Folk pop · Acoustic",
+    "description": "언제든 네 곁에 있겠다는 따뜻한 약속. 친근한 표현과 편안한 리듬으로 영어에 한 걸음 가까워져요.",
+    "focus": [
+      "일상 표현",
+      "조건문",
+      "미래의 약속"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "im-yours",
+    "videoId": "y_NnTs4_W5s",
+    "title": "I’m Yours",
+    "artist": "Jason Mraz",
+    "year": "2008",
+    "level": "초중급",
+    "theme": "ocean",
+    "genre": "Reggae pop · Acoustic",
+    "description": "조금 더 가볍게, 마음이 이끄는 대로. 여유로운 어쿠스틱 사운드와 함께 영어의 자연스러운 리듬을 느껴보세요.",
+    "focus": [
+      "축약형",
+      "연결 발음",
+      "마음을 전하는 표현"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "let-it-be",
+    "videoId": "QDYfEBY9NM4",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "year": "1970",
+    "level": "초급",
+    "theme": "sage",
+    "genre": "Pop rock · Piano ballad",
+    "description": "답이 보이지 않는 날에도 잠시 마음을 놓아 보세요. 반복되는 후렴으로 위로와 기다림의 표현을 익혀요.",
+    "focus": [
+      "위로하는 표현",
+      "명령문",
+      "미래의 가능성"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "my-love",
+    "videoId": "F5oC5DsFk5c",
+    "title": "My Love",
+    "artist": "Westlife",
+    "year": "2000",
+    "level": "초중급",
+    "theme": "ocean",
+    "genre": "Pop · Ballad",
+    "description": "멀리 있는 사람에게 닿고 싶은 마음. 그리움과 바람을 말하는 문장을 차분한 멜로디로 연습해요.",
+    "focus": [
+      "그리움",
+      "간접의문문",
+      "목적을 나타내는 to"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "just-the-way-you-are",
+    "videoId": "LjhCEhWiKXk",
+    "title": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "year": "2010",
+    "level": "초중급",
+    "theme": "terracotta",
+    "genre": "Pop · R&B",
+    "description": "있는 그대로의 모습을 좋아한다는 말. 칭찬과 자신감을 전하는 영어 표현을 배워요.",
+    "focus": [
+      "칭찬",
+      "관계절",
+      "가정 표현"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "perfect",
+    "videoId": "2Vv-BfVoq4g",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "year": "2017",
+    "level": "초중급",
+    "theme": "sage",
+    "genre": "Pop · Romantic ballad",
+    "description": "함께할 미래를 그리는 잔잔한 사랑 이야기. 경험과 감정을 말하는 문장을 익혀요.",
+    "focus": [
+      "감정 묘사",
+      "과거 시제",
+      "현재완료"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "someone-like-you",
+    "videoId": "hLQl3WQQoQ0",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "year": "2011",
+    "level": "중급",
+    "theme": "terracotta",
+    "genre": "Soul · Piano ballad",
+    "description": "지나간 관계를 돌아보며 전하는 마음. 회상과 바람, 복잡한 감정을 영어로 표현해요.",
+    "focus": [
+      "회상",
+      "구동사",
+      "과거완료"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "sunday-morning",
+    "videoId": "S2Cti12XBw4",
+    "title": "Sunday Morning",
+    "artist": "Maroon 5",
+    "year": "2004",
+    "level": "중급",
+    "theme": "ocean",
+    "genre": "Pop rock · Soul",
+    "description": "비 오는 일요일의 느긋한 풍경. 일상의 장면을 묘사하고 자연스러운 구동사를 익혀요.",
+    "focus": [
+      "일상 묘사",
+      "구동사",
+      "가정법"
+    ],
+    "captions": [],
+    "notes": []
+  },
+  {
+    "id": "love-story",
+    "videoId": "8xg3vE8Ie_E",
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "year": "2008",
+    "level": "중급",
+    "theme": "terracotta",
+    "genre": "Country pop",
+    "description": "기억 속 첫 만남에서 미래의 약속까지. 이야기와 대사를 따라가며 경험을 전하는 영어를 배워요.",
+    "focus": [
+      "이야기 듣기",
+      "과거 시제",
+      "부탁과 제안"
+    ],
+    "captions": [],
+    "notes": []
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "verse-song-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.18.3",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/check-public-content.mjs && tsc -b && vite build && node scripts/check-public-content.mjs --dist",
+    "preview": "vite preview",
+    "check:public": "node scripts/check-public-content.mjs",
+    "test": "vitest run",
+    "encrypt-study": "node scripts/encrypt-study.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.3",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "jsdom": "^26.1.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  }
+}
