@@ -32,7 +32,7 @@ pnpm build
 
 ## 공개 방지
 
-기존 저장소 `fogfog2/verse-song-study`는 이전 기록 보관용 비공개 저장소이며 Pages와 Actions를 중단했습니다. 새 저장소 `fogfog2/verse-song-study-clean`은 과거 커밋을 승계하지 않는 비공개 코드 저장소입니다.
+기존 저장소 `fogfog2/verse-song-study`는 이전 기록 보관용 비공개 저장소이며 Pages와 Actions를 중단했습니다. 새 저장소 `fogfog2/verse-song-study-clean`은 과거 커밋을 승계하지 않는 공개 코드 저장소입니다. 가사·번역·암호화 자료가 없는 사이트를 [GitHub Pages](https://fogfog2.github.io/verse-song-study-clean/)에 배포합니다.
 
 검증 CI는 테스트와 빌드를 수행합니다. Pages 워크플로는 `main` 변경 또는 수동 실행 시 동일한 검증을 통과한 `dist/`만 배포합니다. 가사·번역·암호화 파일은 배포하지 않으며 공개 사이트에는 로컬 암호 입력 기능이 표시되지 않습니다. `pnpm build`는 추적 파일 경로, 카탈로그와 `public/` 허용 목록, 빌드 결과를 검사합니다. 새 정적 자산을 추가하려면 `scripts/check-public-content.mjs`의 허용 목록을 검토해야 합니다. 이 검사는 임의의 가사나 비밀을 모두 식별하는 도구는 아니므로 새 콘텐츠는 별도 검토가 필요합니다.
 
